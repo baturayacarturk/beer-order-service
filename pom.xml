@@ -96,7 +96,7 @@
 		</dependency>
 		<!-- Add beer-service dependency if needed -->
 		<dependency>
-			<groupId>com.</groupId>
+			<groupId>com.beer_service</groupId>
 			<artifactId>beer-service</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
